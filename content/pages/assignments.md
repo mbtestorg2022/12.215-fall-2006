@@ -41,7 +41,7 @@ Homework 1 ([PDF]({{< baseurl >}}/resources/12_215_hw1))
 
 Homework 2 ([PDF]({{< baseurl >}}/resources/12_215_hw02))
 
-Data File, sextant\_061025.txt ([TXT](/courses/earth-atmospheric-and-planetary-sciences/12-215-modern-navigation-fall-2006/assignments/sextant_061025.txt))
+Data File, sextant\_061025.txt ({{% resource_link "b1bb4022-2d22-1a85-df38-ef4227165e50" "TXT" %}})
 
 
 {{< tdclose >}}
@@ -50,7 +50,7 @@ Data File, sextant\_061025.txt ([TXT](/courses/earth-atmospheric-and-planetary-s
 
 ([PDF]({{< baseurl >}}/resources/12_215_hw02_soln))
 
-MATLAB® File, hw02\_sextant\_06.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-215-modern-navigation-fall-2006/assignments/hw02_sextant_06.m))
+MATLAB® File, hw02\_sextant\_06.m ({{% resource_link "df11f503-e8a0-78f9-b8b6-e2be32e57655" "M" %}})
 
 
 {{< tdclose >}}
